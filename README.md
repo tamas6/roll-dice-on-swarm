@@ -10,6 +10,7 @@ Assuming you're running @ethersphere/bee on local
 | ----- | ---------------------------------------------------------------- |
 | true  | bzz://dice-on-swarm.eth                                          |
 | hash  | 21ba5f8887999aa18c0c09b9a0ce136d2590b0627d2ac0fab437d93af65b0d33 |
+| easy  | https://api.gateway.ethswarm.org/bzz/dice-on-swarm.eth/          |
 
 ---
 
