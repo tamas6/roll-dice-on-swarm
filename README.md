@@ -4,7 +4,7 @@ don't play with yourself, play with a friend
 
 # Access
 
-Assuming you're running @ethersphare/bee on local
+Assuming you're running @ethersphere/bee on local
 
 | reach   |                                                                         |
 | ------- | ----------------------------------------------------------------------- |
@@ -15,8 +15,6 @@ Assuming you're running @ethersphare/bee on local
 ---
 
 ## Recommended tool if you work with this repo
-
-use this if you don't do already
 
 ```bash
 ext install ritwickdey.liveserver
