@@ -22,7 +22,7 @@ ext install ritwickdey.liveserver
 
 ## Usage
 
-Click ont the roll button for a lucky shot, hold your score to store your current points. Generally intuitive.
+Click on the roll button for a lucky shot, hold your score to store your current points. Generally intuitive.
 
 ## Looks
 
