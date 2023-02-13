@@ -23,6 +23,7 @@ ext install ritwickdey.liveserver
 ## Usage
 
 Click on the roll button for a lucky shot, hold your score to store your current points. Generally intuitive.
+First reach 100 points wins! 🏆
 
 ## Looks
 
