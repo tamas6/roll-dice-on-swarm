@@ -1,10 +1,12 @@
-# Dice game
+# Dice game 🎲
 
-don't play with yourself, play with a friend
+Don't play with yourself, play with a friend. You can co-op locally, the player first reaching 100 wins. Dice rolls are randomly generated, you have to guess when it's time to hold your current score, or give it another go.
+Enjoy!
 
 # Access
 
-Assuming you're running @ethersphere/bee on local
+Assuming you're running @ethersphere/bee on local, use the "true" URL. <br>
+This app is using [Swarm Network](https://github.com/ethersphere/).
 
 | reach |                                                                  |
 | ----- | ---------------------------------------------------------------- |
@@ -13,17 +15,6 @@ Assuming you're running @ethersphere/bee on local
 | easy  | https://api.gateway.ethswarm.org/bzz/dice-on-swarm.eth/          |
 
 ---
-
-## Recommended tool if you work with this repo
-
-```bash
-ext install ritwickdey.liveserver
-```
-
-## Usage
-
-Click on the roll button for a lucky shot, hold your score to store your current points. Generally intuitive.
-First reach 100 points wins! 🏆
 
 ## Looks
 
