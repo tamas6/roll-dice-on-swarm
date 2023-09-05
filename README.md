@@ -3,7 +3,9 @@
 Don't play with yourself, play with a friend. You can co-op locally, the player first reaching 100 wins. Dice rolls are randomly generated, you have to guess when it's time to hold your current score, or give it another go.
 Enjoy!
 
-# Access
+# Access 🚫
+
+Needs a reupload, temporary unavailable.
 
 Assuming you're running @ethersphere/bee on local, use the "true" URL. <br>
 This app is using [Swarm Network](https://github.com/ethersphere/).
